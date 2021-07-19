@@ -2,7 +2,7 @@
 
 [Magento 2 Duplicate Categories](https://www.ulmod.com/magento-2-duplicate-categories-extension.html)  is a Magento 2 extension that allows you to easily copy, clone, or duplicate categories including subcategories and products.
   
-With Magento 2 Duplicate Categories, you can save up to 99% of your time on creating categories.
+With Magento 2 Duplicate Categories, you can save up to 99% of your time on creating and managing categories.
 
 <a href="https://www.ulmod.com/magento-2-duplicate-categories-extension.html"><img width="205" src="https://www.ulmod.com/media/wysiwyg/um-download-now1.png"></a>
 
